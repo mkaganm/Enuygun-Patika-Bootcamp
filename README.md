@@ -18,4 +18,4 @@
 
 ## Week5
 
-[Week5]() - 5. hafta ödevine bu linkten ulaşabilirsiniz.
+[Week5](https://github.com/mkaganm/Enuygun-Patika-Bootcamp/tree/master/homework5-week5) - 5. hafta ödevine bu linkten ulaşabilirsiniz.
