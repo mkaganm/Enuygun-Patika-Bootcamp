@@ -19,3 +19,7 @@
 ## Week5
 
 [Week5](https://github.com/mkaganm/Enuygun-Patika-Bootcamp/tree/master/homework5-week5) - 5. hafta ödevine bu linkten ulaşabilirsiniz.
+
+## Week6
+
+[Week6](https://github.com/mkaganm/Enuygun-Patika-Bootcamp/tree/master/homework6-week6/homework6-mkaganm-main) - 6. hafta ödevine bu linkten ulaşabilirsiniz.
